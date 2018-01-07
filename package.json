@@ -6,6 +6,10 @@
   "jsnext:main": "empty-text.esm.js",
   "module": "empty-text.esm.js",
   "types": "empty-text.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://del.globallogic.com/gitlab/MyGoal/FastTrack.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -14,9 +18,5 @@
     "@angular/platform-browser": "^4.1.0",
     "rxjs": "^5.3.0",
     "zone.js": "^0.8.9"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://del.globallogic.com/gitlab/MyGoal/FastTrack.git"
   }
 }
